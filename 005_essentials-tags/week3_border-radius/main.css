@@ -1,0 +1,12 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 3px solid red;
+    border-radius: 100%;
+    background-image: url("../week3_border-radius/lemon.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding: 50px;
+    margin: 30px;
+}

@@ -1,0 +1,19 @@
+body{
+    width:100%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+p{
+    margin:20px;
+}
+
+p::first-letter{
+    font-family: "Times New Roman";
+    font-size: 40px;
+    line-height: .5;
+}
+
+p::first-line{
+    color:red;
+}

@@ -1,0 +1,21 @@
+body{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+div p{
+    color:red;
+}
+
+div>p{
+    background-color: yellow;
+}
+
+div~p{
+    color:forestgreen;
+}
+
+div+p{
+    border: 5px dotted hotpink;
+}

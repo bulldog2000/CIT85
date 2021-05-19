@@ -1,0 +1,33 @@
+body{
+    font-size: 40px;
+}
+
+li:first-child{
+    color:orange;
+}
+
+li:last-child{
+    color:green;
+}
+
+li:nth-child(even)
+{
+    background-color: palevioletred;
+}
+
+li:nth-child(odd)
+{
+    background-color:skyblue;
+}
+
+li:nth-last-child(10){
+    border: 5px dotted yellow;
+}
+
+li:nth-child(10n+7){
+    color:red;
+}
+
+article:only-child{
+    color: cornflowerblue;
+}

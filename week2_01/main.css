@@ -1,0 +1,21 @@
+body{
+    font-size:40px;
+    text-align:center;
+    border: 20px dotted lightpink;
+}
+
+a:link{
+    color:skyblue;
+}
+
+a:visited{
+    color:red;
+}
+
+a:hover{
+    color: darkorange;
+}
+
+a:active{
+    color:mediumseagreen;
+}

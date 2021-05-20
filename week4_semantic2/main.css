@@ -1,0 +1,62 @@
+.welcome_head{
+    text-align: center;
+    color:skyblue;
+}
+
+li{
+    color:palevioletred;
+}
+li:link{
+    color:skyblue;
+}
+
+li:visited{
+    color:red;
+}
+
+li:hover{
+    color: darkorange;
+}
+
+li:active{
+    color:mediumseagreen;
+}
+
+.article_head{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    color:orangered;
+    text-transform: uppercase;
+}
+
+footer{
+    font-weight: bolder;
+    font-size: medium;
+    font-family: Calibri;
+    color: green;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.restaurant_footer{
+    font-size: x-small;
+    color: brown;
+    text-align: left;
+}
+
+aside{
+    color: saddlebrown;
+    font-size: small;
+    font-family: "Times New Roman";
+    text-transform: capitalize;
+}
+
+h3{
+    color: royalblue;
+    text-decoration: underline;
+}
+
+section{
+    color:steelblue;
+}

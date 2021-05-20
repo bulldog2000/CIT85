@@ -1,0 +1,46 @@
+html, body, ul, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+a {
+    display: block;
+}
+
+ul {
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+}
+
+a {
+    padding: 1em;
+}
+
+ul {
+    list-style: none;
+    background: deepskyblue;
+}
+
+a {
+    text-decoration: none;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    border-top: 1px solid rgba(255,255,255,0.3);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+a:hover {
+    background: royalblue;
+}
+
+li:last-child {
+    border-bottom: none;
+}

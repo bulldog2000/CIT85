@@ -1,0 +1,12 @@
+.icon{
+    color: #663366;
+    margin: 0 auto;
+
+}
+
+.icon::hover{
+    color: #663366;
+    font-size: large;
+}
+
+

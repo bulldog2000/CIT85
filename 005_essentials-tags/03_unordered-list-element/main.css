@@ -1,0 +1,32 @@
+.sea{
+    color:red;
+    font-weight: bold;
+}
+
+#extinct{
+    color: green;
+}
+
+.pet{
+    color:hotpink;
+    font-size: large;
+}
+
+#cute{
+    color: royalblue;
+}
+
+#myNickname{
+    color:orangered;
+    font-style: italic;
+    border: 1px dotted forestgreen;
+}
+
+.cattle{
+    color: goldenrod;
+
+}
+
+#little{
+    color: blueviolet;
+}

@@ -1,0 +1,51 @@
+html, body, div, h1 {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#atf {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 20vh;
+    /* formatting */
+    height: 100vh;
+    background-image: url(nature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5rem;
+    text-align: center;
+    color: rgba(181, 237, 255, 0.94);
+    /* offset-x | offset-y | blur-radius | color */
+    text-shadow: 2px 2px 1px #4c2b03;
+    display: block;
+}
+
+header,footer{
+    color: palevioletred;
+    text-decoration: underline;
+    text-align: center;
+}
+
+ul{
+    color: hotpink;
+    font-size: 3rem;
+}
+
+p{
+    text-align: center;
+    color:goldenrod;
+
+}
+
+#con{
+    box-shadow: 2px 2px #888888;
+}
